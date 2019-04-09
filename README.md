@@ -1,2 +1,2 @@
 # twisted_analysis
-a tool for finding useful papers
+a tool for finding relevant papers
